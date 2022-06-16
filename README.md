@@ -1,16 +1,7 @@
-# destini
+# Flutter-Destini-LinkedIn-Learning
 
-A new Flutter project.
+Dit project was gecreëerd in aanleiding om verdere kennis te verkrijgen van flutter.
 
-## Getting Started
+-   Dit project is gemaakt door **_Stan Persoons {16/06/2022}_**
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Foto van applicatie](https://user-images.githubusercontent.com/44066744/174059120-a9c1fcb4-07b4-40d6-a963-2c8be9286345.png)
